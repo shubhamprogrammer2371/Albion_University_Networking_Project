@@ -11,7 +11,7 @@ I completed a modest networking project based on a case study, covering a number
 
 
 
-Albion university is a large university which has two campuses situated 20 miles apart. Th university's students and staff are distributed in 4 faculties, these include the faculties of Health and Sciences, Business, Engineering/Computing and Art/Design. Each memeber of staff has a PC and students have access to PCs in the labs.
+Albion university is a large university which has two campuses situated 20 miles apart. Th university's students and staff are distributed in 4 faculties, these include the faculties of Health and Sciences, Business, Engineering/Computing and Art/Design. Each member of staff has a PC and students have access to PCs in the labs.
 
 
 
@@ -27,7 +27,7 @@ a) Main Campus:
 
  
  
- I) Building A : Administrative staff in the department of management, HR and finance. The admin staff PCs are distributed in the building offices and it is expected that they will share some networking equipmet (Hint : use of VLANs is expected here). The faculty of Business is also situated in this building.
+ I) Building A : Administrative staff in the department of management, HR and finance. The admin staff PCs are distributed in the building offices and it is expected that they will share some networking equipment (Hint : use of VLANs is expected here). The faculty of Business is also situated in this building.
 
  
  
@@ -61,7 +61,7 @@ b) Smaller  Campus:
  
  
  
- I) Each department/Faculty is expected to be on its own seperate IP network.
+ I) Each department/Faculty is expected to be on its own separate IP network.
 	
  
  
