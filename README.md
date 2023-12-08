@@ -9,6 +9,9 @@ I completed a modest networking project based on a case study, covering a number
 
 
 
+Case Study :-
+
+
 
 
 Albion university is a large university which has two campuses situated 20 miles apart. Th university's students and staff are distributed in 4 faculties, these include the faculties of Health and Sciences, Business, Engineering/Computing and Art/Design. Each member of staff has a PC and students have access to PCs in the labs.
@@ -97,6 +100,94 @@ Task 1 : Your task is to plan, design and prototype the network topology for Abl
 
 
 Task 2 : Configure in packet Tracer, the network with appropriate settings to achieve the connectivity and functionalities specified in the requirements.
+
+
+
+
+Technologies Implemented :- 
+
+
+
+
+
+
+1. Creating a network topology using Cisco Packet Tracer.
+
+
+
+
+
+
+2. Hierarchical Network Design.
+
+
+
+
+
+
+3. Connecting Networking devices with Correct cabling.
+
+
+
+
+
+
+4. Creating VLANs and assigning ports VLAN numbers.
+
+
+
+
+
+5. Subnetting and IP Addressing.
+
+
+
+
+
+
+6. Configuring Inter-VLAN Routing (Router on a stick).
+
+
+
+
+
+
+7. Configuring DHCP Server (Router as the DHCP Server).
+
+
+
+
+
+8. Configuring SSH for secure Remote access.
+
+
+
+
+
+
+9. Configuring switchport security or Port-Security on the switches.
+
+
+
+
+
+
+10. Configuring WLAN or wireless network (Cisco Access Point).
+
+
+
+
+
+
+
+11. Host Device Configurations.
+
+
+
+
+
+
+12. Test and Verifying Network Communication.
 
 
 
